@@ -6,7 +6,7 @@ version = _MODREV .. _SPECREV
 description = {
    summary  = 'libYAML binding for Lua',
    detailed = 'Read and write YAML format files with Lua.',
-   homepage = 'http://github.com/gvvaughan/lyaml',
+   homepage = 'https://github.com/gvvaughan/lyaml',
    license  = 'MIT/X11',
 }
 
